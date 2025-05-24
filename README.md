@@ -13,3 +13,4 @@ A simple calculator built using Python.
 2. Clone the repository:
    ```bash
    git clone https://github.com/daveontrack/Calculator-in-Python.git 
+```
